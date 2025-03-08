@@ -9,6 +9,7 @@ body {
     font-family: Arial, sans-serif;
     color: #fff;
     background-color: #000;
+    background-image: url("../static/background.jpg");
     overflow-x: hidden;
 }
 
